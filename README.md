@@ -18,7 +18,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,reactnative,ts,nodejs,mysql,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,ts,nodejs,mysql,postgres,docker,git" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,figma,githubactions,coolify" />
 </p>
 

@@ -23,11 +23,15 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Cezart2332&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Cezar's GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Cezart2332&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Cezar's GitHub Streak" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cezart2332&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Cezar's Most Used Languages" />
+
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Cezart2332&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
+
+  <img width="390" src="https://streak-stats.demolab.com?user=Cezart2332&theme=transparent&border_radius=10" />
+
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cezart2332&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" />
+
 </div>
+
